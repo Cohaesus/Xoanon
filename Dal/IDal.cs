@@ -1,4 +1,9 @@
-﻿namespace DbCompiler
+﻿//-----------------------------------------------------------------------
+// <copyright file="IDal.cs" company="Cohaesus Project Ltd">
+//     Copyright (c) Cohaesus Project Ltd. All rights reserved.
+// </copyright>
+//-----------------------------------------------------------------------
+namespace DbCompiler
 {
     using System;
     using System.Data;

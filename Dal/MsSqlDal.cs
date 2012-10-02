@@ -1,4 +1,9 @@
-﻿namespace DbCompiler
+﻿//-----------------------------------------------------------------------
+// <copyright file="MsSqlDal.cs" company="Cohaesus Project Ltd">
+//     Copyright (c) Cohaesus Project Ltd. All rights reserved.
+// </copyright>
+//-----------------------------------------------------------------------
+namespace DbCompiler
 {
     using System;
     using System.Collections.Generic;

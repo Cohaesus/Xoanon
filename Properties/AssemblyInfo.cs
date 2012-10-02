@@ -1,4 +1,9 @@
-﻿using System;
+﻿//-----------------------------------------------------------------------
+// <copyright file="AssemblyInfo.cs" company="Cohaesus Project Ltd">
+//     Copyright (c) Cohaesus Project Ltd. All rights reserved.
+// </copyright>
+//-----------------------------------------------------------------------
+using System;
 using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
