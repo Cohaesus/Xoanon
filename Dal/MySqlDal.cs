@@ -1,6 +1,6 @@
 ﻿//-----------------------------------------------------------------------
-// <copyright file="MySqlDal.cs" company="Cohaesus Project Ltd">
-//     Copyright (c) Cohaesus Project Ltd. All rights reserved.
+// <copyright file="MySqlDal.cs" company="Cohaesus Projects Ltd">
+//     Copyright (c) Cohaesus Projects Ltd. All rights reserved.
 // </copyright>
 //-----------------------------------------------------------------------
 namespace DbCompiler
